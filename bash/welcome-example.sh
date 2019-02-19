@@ -22,8 +22,6 @@ currenttime=$(date +%I:%M\ %p)
 # Main        #
 ###############
 cat <<EOF
-
 Welcome to planet $hostname, "$title $myname!"
 It is $currenttime on $today.
-
 EOF
