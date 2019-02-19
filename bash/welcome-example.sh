@@ -13,7 +13,7 @@
 # Variables   #
 ###############
 title="Overlord"
-myname="$USER"
+myname="$USER"   
 hostname=$(hostname)
 today=$(date +%A)
 currenttime=$(date +%I:%M\ %p)
